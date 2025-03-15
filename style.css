@@ -6,9 +6,9 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: url('https://wallpapers.com/images/hd/funny-cartoon-pictures-uz34o6e9kjflntk2.jpg') no-repeat center center/cover; /* Add background image */
-    color: white; /* Ensure text is visible on the image */
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow for better readability */
+    background: url('https://wallpapers.com/images/hd/funny-cartoon-pictures-uz34o6e9kjflntk2.jpg') no-repeat center center/cover; 
+    color: white; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 /* Fun Fact Display */
@@ -16,7 +16,7 @@ body {
     margin: 20px;
     font-size: 1.5em;
     text-align: center;
-    background: rgba(0, 0, 0, 0.6); /* Add semi-transparent background for readability */
+    background: rgba(0, 0, 0, 0.6); 
     padding: 15px;
     border-radius: 10px;
 }
@@ -27,7 +27,7 @@ button {
     font-size: 1.1em;
     cursor: pointer;
     border: none;
-    background-color: #ff9800; /* Orange color for the button */
+    background-color: #ff9800; 
     color: white;
     border-radius: 8px;
     transition: 0.3s;
